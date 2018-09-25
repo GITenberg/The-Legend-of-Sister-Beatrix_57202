@@ -6,6 +6,9 @@ contributor:
     alias: Wooff, Michael John
     gutenberg_agent_id: '41215'
     url: http://www.gutenberg.org/2009/agents/41215
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nodier, Charles
@@ -18,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Nodier
     - http://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57202#The-Legend-of-Sister-Beatrix
 gutenberg_issued: '2018-05-22'
 gutenberg_type: Text
 identifiers:
