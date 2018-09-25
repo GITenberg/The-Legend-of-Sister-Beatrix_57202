@@ -1,0 +1,32 @@
+_repo: The-Legend-of-Sister-Beatrix_57202
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wooff, Michael
+    alias: Wooff, Michael John
+    gutenberg_agent_id: '41215'
+    url: http://www.gutenberg.org/2009/agents/41215
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2018-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Legend of Sister Beatrix
+url: http://www.gutenberg.org/ebooks/57202
